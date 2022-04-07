@@ -104,6 +104,8 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
+
+
 //    private void sendCode(byte[] code)
 //    {
 //        try {
